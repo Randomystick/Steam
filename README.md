@@ -1,2 +1,2 @@
 # Steam
-autoexec.cfg files for the Source games I play.
+config and ini files for the games I play.
